@@ -1,11 +1,11 @@
-# Project for class Introduction to software engineering
+# Project for class Introduction to Software Engineering
 
 Team and roles:
 
 -   SV21/2021 Dunja Matejic - patient
 -   SV22/2021 Mila Milovic - administrator
 -   SV23/2021 Nenad Beric - nurse
--   SV59/2021 Sonja Baljicki -doctor
+-   SV59/2021 Sonja Baljicki - doctor
 
 
 # Hospital Management System
