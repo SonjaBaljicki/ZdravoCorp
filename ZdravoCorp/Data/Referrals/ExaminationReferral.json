@@ -1,0 +1,37 @@
+[
+  {
+    "PatientId": 1,
+    "DoctorId": 2,
+    "Date": null,
+    "Description": "aaa",
+    "WasUsed": true
+  },
+  {
+    "PatientId": 1,
+    "DoctorId": 3,
+    "Date": null,
+    "Description": "b",
+    "WasUsed": true
+  },
+  {
+    "PatientId": 1,
+    "DoctorId": 1,
+    "Date": null,
+    "Description": "aa",
+    "WasUsed": true
+  },
+  {
+    "PatientId": 1,
+    "DoctorId": 2,
+    "Date": null,
+    "Description": "2",
+    "WasUsed": false
+  },
+  {
+    "PatientId": 1,
+    "DoctorId": 3,
+    "Date": null,
+    "Description": "2",
+    "WasUsed": false
+  }
+]

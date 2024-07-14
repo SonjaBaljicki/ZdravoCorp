@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Ibuprofen",
+    "Ingredients": [
+      "a",
+      "b",
+      "c"
+    ],
+    "Price": 20,
+    "Quantity": 4123,
+    "LastRestocked": "14.07.2024.",
+    "RestockingQuantity": 10
+  },
+  {
+    "Name": "Penicilin",
+    "Ingredients": [
+      "a",
+      "b",
+      "c"
+    ],
+    "Price": 30,
+    "Quantity": 4150,
+    "LastRestocked": "14.07.2024.",
+    "RestockingQuantity": 10
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "roomId": 3,
+    "appointmentId": 1747573303,
+    "Time": {
+      "Date": "22.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 79173022,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 1691755093,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:15:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 734376409,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:30:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 1260903070,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:45:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 4,
+    "appointmentId": 1752414268,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 2,
+    "appointmentId": 366164,
+    "Time": {
+      "Date": "15.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 2,
+    "appointmentId": 541461,
+    "Time": {
+      "Date": "16.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 5,
+    "appointmentId": 260140,
+    "Time": {
+      "Date": "15.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 5,
+    "appointmentId": 549509,
+    "Time": {
+      "Date": "16.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 7,
+    "appointmentId": 817955,
+    "Time": {
+      "Date": "15.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 7,
+    "appointmentId": 721637,
+    "Time": {
+      "Date": "16.06.2023.",
+      "StartTime": "00:00:00",
+      "Duration": "01:00:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 1996990321,
+    "Time": {
+      "Date": "29.06.2023.",
+      "StartTime": "00:45:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 1698349673,
+    "Time": {
+      "Date": "29.06.2023.",
+      "StartTime": "01:00:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 1,
+    "appointmentId": 14855,
+    "Time": {
+      "Date": "23.06.2023.",
+      "StartTime": "00:15:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 1,
+    "appointmentId": 837231,
+    "Time": {
+      "Date": "16.06.2023.",
+      "StartTime": "00:34:09",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 1,
+    "appointmentId": 243138,
+    "Time": {
+      "Date": "29.06.2023.",
+      "StartTime": "01:15:00",
+      "Duration": "00:15:00"
+    }
+  },
+  {
+    "roomId": 3,
+    "appointmentId": 319469737,
+    "Time": {
+      "Date": "29.06.2023.",
+      "StartTime": "01:30:00",
+      "Duration": "00:15:00"
+    }
+  }
+]
